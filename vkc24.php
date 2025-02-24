@@ -17,7 +17,7 @@ error_reporting(0);
 
 
 
-	$correctPassword = "xfcspc"; //Change Password
+	$correctPassword = "veekc"; //Change Password
 
 
 
